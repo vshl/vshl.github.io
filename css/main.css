@@ -17,7 +17,7 @@ a:link
 {
     text-decoration: none;
 
-    color: #526d7a;
+    color: #cfd8dc;
 }
 body
 {
@@ -30,7 +30,8 @@ body
     min-height: 100%;
     margin: 0;
 
-    background-color: #fcfcfc;
+    background-color: #9e9e9e;
+    background-image: url("bg.png");
 }
 html
 {
@@ -88,7 +89,7 @@ div.content
 {
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
-    color: #bbb;
+    color: #cfd8dc;
 }
 .error
 {
@@ -142,7 +143,7 @@ div.content
 {
     font-family: 'Roboto Slab', serif;
     font-weight: 200;
-    color: #777;
+    color: #efebe9;
 }
 h3.intro
 {
@@ -189,7 +190,7 @@ h3.intro
 
     text-decoration: none;
 
-    color: #966 !important;
+    color: #b3e5fc !important;
 }
 .meta
 {
@@ -227,7 +228,7 @@ section.meta {
 .social,
 .social a
 {
-    color: #526d7a;
+    color: #01579b;
 }
 .title
 {
