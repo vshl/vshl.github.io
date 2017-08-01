@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Vishal Ravi Shankar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vshl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android</title>
+      <link>https://vshl.github.io/tags/android/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://vshl.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>https://vshl.github.io/tags/apps/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://vshl.github.io/tags/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dev</title>
+      <link>https://vshl.github.io/tags/dev/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://vshl.github.io/tags/dev/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
